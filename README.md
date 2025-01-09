@@ -16,7 +16,7 @@ Asegúrate de tener lo siguiente instalado en tu máquina:
 Si aún no has clonado el repositorio en tu máquina local, usa el siguiente comando para hacerlo:
 
 ```bash
-git clone https://github.com/jucrojaba/first-challenge-2025  
+git clone https://github.com/jucrojaba/first-challenge-2025.git  
 cd first-challenge-2025 
 ```
 
